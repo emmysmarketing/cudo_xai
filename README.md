@@ -79,7 +79,7 @@ pip install tensorflow matplotlib scikit-image shap
 - SHAP visualizes the regions of images that contribute most to the predictions.
 
 Example SHAP output:
-![SHAP Explanation](shap_example.png)
+![SHAP Explanation](shap_test_output_1.png)
 
 ---
 
